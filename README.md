@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/AWSLambda-FF9900?style=for-the-badge&logo=AWSLambda&logoColor=white"> <img src="https://img.shields.io/badge/AmazonS3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white"> <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ool2o8&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=ool2o8&show_icons=true">
 
 <!--
 **ool2o8/ool2o8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
